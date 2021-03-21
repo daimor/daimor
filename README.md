@@ -6,7 +6,7 @@
 [![Linkedin: Dmitry Maslennikov](https://img.shields.io/badge/-Dmitry%20Maslennikov-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daimor/)](https://www.linkedin.com/in/daimor/)  
 [![Twitter Follow](https://img.shields.io/twitter/follow/mr_daimor?label=Dmitry%20Maslennikov)](https://twitter.com/mr_daimor)  
 [![Twitter Follow](https://img.shields.io/twitter/follow/CaretDevCorp?label=CaretDev%20Corporation)](https://twitter.com/CaretDevCorp)  
-[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/1279493?logo=stackoverflow&style=social&label=Dmitry%20Maslennikov)](https://stackoverflow.com/users/1279493/daimor)  
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/1279493?logo=stackoverflow&label=Dmitry%20Maslennikov)](https://stackoverflow.com/users/1279493/daimor)  
 
 ## GitHub Stats
 
