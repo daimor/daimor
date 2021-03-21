@@ -3,9 +3,10 @@
 ## 📫 How to reach me
 
 [![Article's on InterSystems Community](https://img.shields.io/badge/My%20Articles-InterSystems%20Community-blue)](https://community.intersystems.com/user/11906/posts?filter=articles)  
+[![Linkedin: Dmitry Maslennikov](https://img.shields.io/badge/-Dmitry%20Maslennikov-blue?style=social&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daimor/)](https://www.linkedin.com/in/daimor/)  
 [![Twitter Follow](https://img.shields.io/twitter/follow/mr_daimor?label=Dmitry%20Maslennikov)](https://twitter.com/mr_daimor)  
 [![Twitter Follow](https://img.shields.io/twitter/follow/CaretDevCorp?label=CaretDev%20Corporation)](https://twitter.com/CaretDevCorp)  
-[![Linkedin: Dmitry Maslennikov](https://img.shields.io/badge/-Dmitry%20Maslennikov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daimor/)](https://www.linkedin.com/in/daimor/)
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/1279493?logo=stackoverflow&style=social&label=Dmitry%20Maslennikov)](https://stackoverflow.com/users/1279493/daimor)  
 
 ## GitHub Stats
 
